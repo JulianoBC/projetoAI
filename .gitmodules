@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/andreycmartins/upload-ai-api
+[submodule "front"]
+	path = front
+	url = https://github.com/andreycmartins/upload-ai-front
